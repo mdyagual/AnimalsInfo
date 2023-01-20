@@ -4,3 +4,5 @@ loro
 tortuga
 Iguana
 Cocodrilo
+Ornitorinco
+Lagartija
