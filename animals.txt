@@ -1,5 +1,5 @@
-dog
-cat
-parrot
-snake
-spider
+perro
+gato
+loro
+tortuga
+
