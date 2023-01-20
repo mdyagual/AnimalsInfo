@@ -1,6 +1,4 @@
 perro
 gato
-loro
-tortuga
 iguana
 cocodrilo
