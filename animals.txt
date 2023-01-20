@@ -4,3 +4,9 @@ loro
 tortuga
 Iguana
 Cocodrilo
+
+
+
+Aguila
+Paloma
+Tucán
