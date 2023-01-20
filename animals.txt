@@ -2,3 +2,4 @@ perro
 gato
 iguana
 cocodrilo
+capibara
