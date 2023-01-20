@@ -4,3 +4,4 @@ loro
 tortuga
 Iguana
 Cocodrilo
+Caballo
