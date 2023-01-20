@@ -1,5 +1,7 @@
 perro
 gato
-iguana
-cocodrilo
-capibara
+loro
+tortuga
+Iguana
+Cocodrilo
+Caballo
