@@ -2,5 +2,5 @@ perro
 gato
 loro
 tortuga
-Iguana
-Cocodrilo
+iguana
+cocodrilo
